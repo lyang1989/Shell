@@ -83,9 +83,9 @@ if [ "$COUNTRY" == 'CN' ]; then
     "max-file": "1"
   },
   "registry-mirrors": [
-    "https://hub-mirror.c.163.com",
-    "https://dockerproxy.com",
-    "https://mirror.baidubce.com"
+    "https://docker.1panel.live",
+    "https://dockerhub.icu",
+    "https://dockerhub.jobcher.com"
   ]
 }
 EOF
